@@ -44,3 +44,16 @@ in achieving the stated goals of the organization in the desired manner. Accordi
 Q2: How controlling helps in the accomplishment of goals?
 
 Ans. Controlling can be defined as that function of management which helps to seek planned results from the subordinates, managers and at all levels of an organization. The controlling function helps in measuring the progress towards the organizational goals & brings any deviations, & indicates corrective action. Thus, an overall sense, the controlling function helps and guides the organizational goals for achieving long-term goals in future.
+
+
+
+https://www.youtube.com/watch?v=L9c2eJrssf4
+SAP BW / BI tutorial for beginners
+
+
+
+https://www.youtube.com/watch?v=i-ClPNlEBXE
+SAP Concur Overview for beginners
+
+
+
