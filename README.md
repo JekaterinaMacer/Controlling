@@ -49,7 +49,8 @@ Ans. Controlling can be defined as that function of management which helps to se
 
 https://www.youtube.com/watch?v=L9c2eJrssf4
 SAP BW / BI tutorial for beginners
-
+https://www.guru99.com/sap-bi.html
+SAP BI/BW Tutorial: Training for Beginners
 
 
 https://www.youtube.com/watch?v=i-ClPNlEBXE
