@@ -56,4 +56,5 @@ https://www.youtube.com/watch?v=i-ClPNlEBXE
 SAP Concur Overview for beginners
 
 
-
+https://krd.pl 
+Krajowy Rejestr Długów
